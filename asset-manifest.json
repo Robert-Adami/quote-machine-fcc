@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quote-machine-fcc-project/static/css/main.48d4fe9a.css",
+    "main.js": "/quote-machine-fcc-project/static/js/main.ce89c607.js",
+    "static/js/453.169ceee3.chunk.js": "/quote-machine-fcc-project/static/js/453.169ceee3.chunk.js",
+    "index.html": "/quote-machine-fcc-project/index.html",
+    "main.48d4fe9a.css.map": "/quote-machine-fcc-project/static/css/main.48d4fe9a.css.map",
+    "main.ce89c607.js.map": "/quote-machine-fcc-project/static/js/main.ce89c607.js.map",
+    "453.169ceee3.chunk.js.map": "/quote-machine-fcc-project/static/js/453.169ceee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48d4fe9a.css",
+    "static/js/main.ce89c607.js"
+  ]
+}
